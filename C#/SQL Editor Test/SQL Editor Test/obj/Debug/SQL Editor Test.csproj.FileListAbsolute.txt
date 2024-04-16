@@ -1,0 +1,14 @@
+P:\SQL Editor Test\SQL Editor Test\bin\Debug\SQL Editor Test.exe.config
+P:\SQL Editor Test\SQL Editor Test\bin\Debug\SQL Editor Test.exe
+P:\SQL Editor Test\SQL Editor Test\bin\Debug\SQL Editor Test.pdb
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.csprojAssemblyReference.cache
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL_Editor_Test.launchPage.resources
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL_Editor_Test.Properties.Resources.resources
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.csproj.GenerateResource.cache
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.csproj.CoreCompileInputs.cache
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.exe
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.pdb
+P:\SQL Editor Test\SQL Editor Test\bin\Debug\SQL Editor Test.exe.manifest
+P:\SQL Editor Test\SQL Editor Test\bin\Debug\SQL Editor Test.application
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.exe.manifest
+P:\SQL Editor Test\SQL Editor Test\obj\Debug\SQL Editor Test.application
